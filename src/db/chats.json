@@ -1,0 +1,97 @@
+{
+  "chats": [
+    {
+      "title": "Brunch this weekend?",
+      "recipients": [
+        {
+          "name": "Ali",
+          "surname": "Connors",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+          "country": "USA",
+          "address": "110 Fulton St, New York, NY 10038",
+          "score": 21
+        }
+      ],
+      "messages": [
+        "Hello! What`s up bro?",
+        "I'll be in your neighborhood doing errands this weekend. Do you want to hang out?"
+      ]
+    },
+    {
+      "title": "Summer BBQ",
+      "recipients": [
+        {
+          "name": "Alex",
+          "surname": "Telles",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+          "country": "Russia",
+          "address": "ул. Гагарина, 50А, Магадан, Магаданская обл., 685000",
+          "score": 11
+        },
+        {
+          "name": "Scott",
+          "surname": "Parker",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+          "country": "Russia",
+          "address": "ул. Гагарина, 50А, Магадан, Магаданская обл., 685000",
+          "score": 11
+        },
+        {
+          "name": "Jennifer",
+          "surname": "lopez",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+          "country": "Russia",
+          "address": "ул. Гагарина, 50А, Магадан, Магаданская обл., 685000",
+          "score": 11
+        }
+      ],
+      "messages": ["Wish I could come, but I'm out of town this weekend."]
+    },
+    {
+      "title": "Oui oui",
+      "recipients": [
+        {
+          "name": "Sandra",
+          "surname": "Adams",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+          "country": "USA",
+          "address": "34 Clerk St, Jersey City, NJ 07305",
+          "score": 7
+        }
+      ],
+      "messages": ["Do you have Paris recommendations? Have you ever been?"]
+    },
+    {
+      "title": "Birthday gift",
+      "recipients": [
+        {
+          "name": "Trevor",
+          "surname": "Hansen",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+          "country": "USA",
+          "address": "17223 SW Rivendell Dr, Portland, OR 97224",
+          "score": 45
+        }
+      ],
+      "messages": [
+        "Have any ideas about what we should get Heidi for her birthday?"
+      ]
+    },
+    {
+      "title": "Recipe to try",
+      "recipients": [
+        {
+          "name": "Britta",
+          "surname": "Holt",
+          "avatarURL": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+          "country": "Russia",
+          "address": "ул. Пушкина, 5, Казань, Респ. Татарстан, 420111",
+          "score": 33
+        }
+      ],
+      "messages": [
+        "We should eat this: Grate, Squash, Corn, and tomatillo Tacos."
+      ]
+    }
+  ]
+}
